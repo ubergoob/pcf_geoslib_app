@@ -1,0 +1,3 @@
+echo "----------_HI I'm IN HERE!!? ---------"
+GEOS_CONFIG=/home/vcap/geoslib-dev/usr/bin/geos-config
+echo $GEOS_CONFIG
